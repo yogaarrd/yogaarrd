@@ -1,14 +1,14 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack Developer from Indonesia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yogaarrd&label=Profile%20views&color=0e75b6&style=flat" alt="yogaarrd" />
 </p>
 
 <p align="center">
-  🌱 I’m currently learning **Node JS, Express JS**<br>
+  🌱 I’m currently learning Node JS, Express JS<br>
   👨‍💻 All of my projects are available at <a href="https://yogaardiana.vercel.app">https://yogaardiana.vercel.app</a><br>
-  💬 Ask me about **Node JS, Express JS, Vite, React JS, Mongo DB, Supabase**<br>
-  📫 How to reach me **yogaardiana05@gmail.com**
+  💬 Ask me about Node JS, Express JS, Vite, React JS, Mongo DB, Supabase<br>
+  📫 How to reach me yogaardiana05@gmail.com
 </p>
 
 <h3 align="center">Connect with me:</h3>
