@@ -6,7 +6,7 @@
 
 <p align="center">
   🌱 I’m currently learning Node JS, Express JS<br>
-  👨‍💻 All of my projects are available at <a href="https://yogaardiana.vercel.app">https://yogaardiana.vercel.app</a><br>
+  👨‍💻 All of my projects are available at <a href="https://yogaardiana.netlify.app">https://yogaardiana.vercel.app</a><br>
   💬 Ask me about Node JS, Express JS, Vite, React JS, Mongo DB, Supabase<br>
   📫 How to reach me yogaardiana05@gmail.com
 </p>
