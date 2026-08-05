@@ -21,7 +21,7 @@ const yoga = {
                   experience: "Laravel Web Developer",
                   education: "Informatics @ INSTIKI"
               },
-  challenge: "Currently balancing freelance projects with my Informatics studies, while sharpening my Laravel & Vue.js skills"
+  challenge: "Currently balancing projects with my Informatics studies, while sharpening my skills"
 }
 ```
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
